@@ -58,3 +58,42 @@ The historic data for Bitcoin used in the Bitcoin_Prediction_and_Experimentation
 | LSTM-1  | 0.0102       |
 | LSTM-2  | 0.008       |
 | LSTM-Final   | 0.003        |
+
+
+### YouTube Link
+https://www.youtube.com/watch?v=IsZ4m0gRnwM
+
+### References
+```math
+[1] V. S. Pagolu, K. N. Reddy, G. Panda and B. Majhi, ”Sentiment analysis of Twitter data for predicting stock market movements,” 2016 International Conference on Signal Processing, Communication, Power and Embedded System (SCOPES), 2016, pp. 1345-1350, doi: 10.1109/SCOPES.2016.7955659.
+[2] Sentiment Analysis of Twitter Data: A Survey of
+Techniques: https://arxiv.org/pdf/1601.06971.pdf
+[3] Ba, Cheick Tidiane, et al. ”The Effect of Cryptocur-
+rency Price on a Blockchain-Based Social Network.”
+International Conference on Complex Networks and
+Their Applications. Springer, Cham, 2020.
+[4] The Reddit revolt: GameStop and the im-
+pact of social media on institutional investors:
+https://www.thetradenews.com/the-reddit-revolt-
+gamestop-and-the-impact-of-social-media-on-
+institutional-investors/
+[5] Pang, Bo, Lillian Lee, and Shivakumar Vaithyanathan.
+”Thumbs up? Sentiment classification using ma-
+chine learning techniques.” arXiv preprint cs/0205070
+(2002).
+[6] Zhang, Lei, Shuai Wang, and Bing Liu. ”Deep learn-
+ing for sentiment analysis: A survey.” Wiley Interdis-
+ciplinary Reviews: Data Mining and Knowledge Dis-
+covery 8.4 (2018): e1253.
+[7] Ain, Qurat Tul, et al. ”Sentiment analysis using deep
+learning techniques: a review.” Int J Adv Comput Sci
+Appl 8.6 (2017): 424.
+[8] https://pypi.org/project/yfinance/
+[9] https://docs.tweepy.org/en/stable/
+[10] Samuelson, Paul A. ”Proof that properly anticipated
+prices fluctuate randomly.” The world scientific hand-
+book of futures markets. 2016. 25-38.
+[11] Akbik, Alan, Duncan Blythe, and Roland Vollgraf.
+”Contextual string embeddings for sequence label-
+ing.” Proceedings of the 27th international conference
+on computational linguistics. 2018.
