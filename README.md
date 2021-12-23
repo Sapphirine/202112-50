@@ -47,3 +47,14 @@ Our dataset consists of 3 parts:
 3. Yahoo Finance: yfinance api is used for collection of stock data
 
 The historic data for Bitcoin used in the Bitcoin_Prediction_and_Experimentation.ipynb notebook is available at https://drive.google.com/drive/folders/1_Kujv9WRrK-vIHeOU2scmiTb9vbc9u2U?usp=sharing
+
+
+**Result:** 
+
+| Model      | MSE |
+| ----------- | ----------- |
+| ARIMA      | 0.239       |
+| XGBoost   | 0.008        |
+| LSTM-1  | 0.0102       |
+| LSTM-2  | 0.008       |
+| LSTM-Final   | 0.003        |
